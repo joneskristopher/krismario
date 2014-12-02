@@ -32,6 +32,10 @@
   </data>
  </layer>
  <objectgroup name="trigger entities">
-  <object x="2171" y="3249" width="69" height="111"/>
+  <object x="2171" y="3249" width="69" height="111">
+   <properties>
+    <property name="level" value="marioo level 2"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>
